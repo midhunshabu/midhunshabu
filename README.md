@@ -1,33 +1,103 @@
-# Project Title
+<h1 align="center"><b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=georgia&size=35&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=⚡+MIDHUN+SHABU+⚡;CYBER+FORENSIC+ENTHUSIAST;ETHICAL+HACKING+EXPLORER;BREAKING+LIMITS+🚀">
+</b></h1>
+<p align="center">
+" i'm just a student still studying to get my life out of troubles "</p>
+</p>
 
-A short description of your project goes here. Explain what it does, who it is for, and why it is useful.
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+</p>
 
-## Table of Contents
+---
 
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## 🧑‍💻 ABOUT ME
 
-## About
+- B.Sc Cyber Forensics student from Kerala  
+- Passionate about Ethical Hacking & Security Research  
+- Loves Python 🐍, Linux 🖥, and solving cyber mysteries  
+- Working to make digital spaces safer  
+- I keep learning to make myself better
 
-Describe the project in detail. What problem does it solve? What technologies does it use? What makes it special?
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/cyber-security.png" width="100"/>
+</p>
 
-## Features
+---
 
-- Feature 1
-- Feature 2
-- Feature 3
-- Feature 4
+## 💻 SKILLS AND TOOLS
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+</p>
 
-## Installation
+---
 
-Follow these steps to install and run the project locally:
+## 📂 PROJECTS
 
-1. Clone the repository:
+### 🕵 Intrution Detection System
+- Mini project on intrution and detection <b>(work in progress)</b>
 
-```bash
-git clone https://github.com/your-username/your-repository.git
+
+### 🔗 URL Threat Detection System (UTDS)
+- Detects malicious URLs and displays the safety score and threat analysing report about the link
+
+
+### 🛡 WiFi Security Enhancer
+- Prototype to prevent unauthorized access <b>(work in progress)</b> 
+
+---
+
+## 📊 GITHUB STATS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=midhunshabu&show_icons=true&theme=dark" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunshabu&layout=compact&theme=dark" width="300"/>
+</p>
+
+---
+
+## 📫 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://www.instagram.com/its_midhunshabu?igsh=MXJyMnZvaGc2d3dycg==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/share/16MsKu8Cf6/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.threads.net/@its_midhunshabu" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/midhun_shabu" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://t.me/midhun_shabu" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.snapchat.com/add/midhun_shabu?share_id=Ac3hKyvulwE&locale=en-US" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/midhun-shabu-puthanveetil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:midhunshabu18102004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/midhunshabu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="400"/>
+</p>
+
+---
+
+<p align="center"><b>🕵‍♂ LEARN ,EXPLORE, UNDERSTAND 🕵‍♂</b></p>
