@@ -5,7 +5,7 @@
 </b></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -89,12 +89,6 @@
   <a href="https://github.com/midhunshabu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="400"/>
 </p>
 
 ---
