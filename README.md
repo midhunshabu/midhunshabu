@@ -1,5 +1,5 @@
 <h1 align="center"><b>
-  <img src="https://readme-typing-svg.herokuapp.com?font=georgia&size=35&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=⚡+MIDHUN+SHABU+⚡;CYBER+FORENSIC+ENTHUSIAST;ETHICAL+HACKING+EXPLORER;BREAKING+LIMITS+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=georgia&size=35&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=⚡HI+I'M+MIDHUN+SHABU+⚡;CYBER+FORENSIC+ENTHUSIAST;ETHICAL+HACKING+EXPLORER;BREAKING+LIMITS+🚀">
 </b></h1>
 <p align="center">
 " i'm just a student still studying to get my life out of troubles "</p>
