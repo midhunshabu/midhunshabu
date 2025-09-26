@@ -1,9 +1,9 @@
-<h1 align="center"><b>
-  <img src="https://readme-typing-svg.herokuapp.com?font=georgia&size=35&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=⚡HI+I'M+MIDHUN+SHABU+⚡;CYBER+FORENSIC+ENTHUSIAST;ETHICAL+HACKING+EXPLORER;BREAKING+LIMITS+🚀">
-</b></h1>
 <p align="center">
-" i'm just a student still studying to get my life out of troubles "</p>
-</p>
+  <img src="IMAGEBANNER.jpg" width="800"/></p>
+  <h1 align="center"><b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=georgia&size=35&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=⚡HI+👋I'M+MIDHUN+SHABU+⚡;CYBER+FORENSIC+ENTHUSIAST;ETHICAL+HACKING+EXPLORER;BREAKING+LIMITS+🚀">
+</b></h1>
+![IMAGEBANNER](https://github.com/user-attachments/assets/9b7c2b09-3acf-430c-9ef2-a2196cd0e734)
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
