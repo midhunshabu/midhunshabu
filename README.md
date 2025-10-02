@@ -94,4 +94,5 @@
 ---
 ## BADGES GAINED
 <p align="center">
-<img width="300" height="300" alt="google badge" src="https://github.com/user-attachments/assets/37c174bd-bfa5-4b10-aeb5-25b0bf45f7d1" />
+<img width="300" height="300" alt="google badge" src="https://github.com/user-attachments/assets/37c174bd-bfa5-4b10-aeb5-25b0bf45f7d1" /></p>
+An image of @midhunshabu's Holopin badges, which is a link to view their full Holopin profile (https://holopin.me/midhunshabu)](https://holopin.io/@midhunshabu)
