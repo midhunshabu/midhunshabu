@@ -92,5 +92,6 @@
 </p>
 
 ---
-
-<p align="center"><b>🕵‍♂ LEARN ,EXPLORE, UNDERSTAND 🕵‍♂</b></p>
+## BADGES GAINED
+<p align="center">
+<img width="300" height="300" alt="google badge" src="https://github.com/user-attachments/assets/37c174bd-bfa5-4b10-aeb5-25b0bf45f7d1" />
