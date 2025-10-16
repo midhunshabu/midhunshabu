@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=georgia&size=35&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=⚡HI+👋I'M+MIDHUN+SHABU+⚡;CYBER+FORENSIC+ENTHUSIAST;ETHICAL+HACKING+EXPLORER;BREAKING+LIMITS+🚀">
-  <img src="https://github.com/user-attachments/assets/4f858e41-6ee7-4d25-b001-26230bb6cba2">
+  <img align="center" src="https://github.com/user-attachments/assets/4f858e41-6ee7-4d25-b001-26230bb6cba2">
   <h1 align="center"><b>
 </b></h1>
 
@@ -42,14 +42,14 @@
 
 
 ### 🛡 WiFi Security Enhancer
-- Prototype to prevent unauthorized access <b>(work in progress)</b> 
+- Prototype to prevent unauthorized access <b>(work in progress)</b>
 
 ---
 
 ## 📊 GITHUB STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=midhunshabu&show_icons=true&theme=dark" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunshabu&layout=compact&theme=dark" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=midhunshabu&show_icons=true&theme=radical" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunshabu&layout=compact&theme=radical" width="300"/>
 </p>
 
 ---
@@ -88,9 +88,9 @@
 
 ---
 ## BADGES GAINED
-<p>
-<img width="200" height="200" alt="google badge" src="https://github.com/user-attachments/assets/37c174bd-bfa5-4b10-aeb5-25b0bf45f7d1" />
-<img width="200" height="200" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="/>
+<p align="center">
+<img width="200" height="200" src="https://github.com/user-attachments/assets/77f0ac60-8b24-4d44-8956-26aaead06e2f"/>
+<img width="200" height="200" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0"/>
 <img width="200" height="200" src="https://assets.holopin.io/hf2025levels/lvl0-human.webp"/>
 <img width="200" height="200" src="https://assets.holopin.io/hf2025levels/lvl1-human.webp"/>
 <img width="200" height="200" src="https://assets.holopin.io/hf2025levels/lvl2-human.webp"/>
