@@ -88,6 +88,13 @@
 
 ---
 ## BADGES GAINED
-<p align="center">
-<img width="300" height="300" alt="google badge" src="https://github.com/user-attachments/assets/37c174bd-bfa5-4b10-aeb5-25b0bf45f7d1" /></p>
-An image of @midhunshabu's Holopin badges, which is a link to view their full Holopin profile (https://holopin.me/midhunshabu)](https://holopin.io/@midhunshabu)
+<p>
+<img width="200" height="200" alt="google badge" src="https://github.com/user-attachments/assets/37c174bd-bfa5-4b10-aeb5-25b0bf45f7d1" />
+<img width="200" height="200" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="/>
+<img width="200" height="200" src="https://assets.holopin.io/hf2025levels/lvl0-human.webp"/>
+<img width="200" height="200" src="https://assets.holopin.io/hf2025levels/lvl1-human.webp"/>
+<img width="200" height="200" src="https://assets.holopin.io/hf2025levels/lvl2-human.webp"/>
+<img width="200" height="200" src="https://assets.holopin.io/hf2025levels/lvl3-human.webp"/>
+<img width="200" height="200" src="https://assets.holopin.io/hf2025levels/lvl4-human.webp"/>
+<img width="200" height="200" src="https://assets.holopin.io/hf2025levels/lvl5-human.webp"/>
+</p>
