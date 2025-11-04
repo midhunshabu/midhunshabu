@@ -33,17 +33,18 @@
 
 ## 📂 PROJECTS
 
-### 🕵 Intrution Detection System
-- Mini project on intrution and detection <b>(work in progress)</b>
+### 🕵 Scientific Calculator
+- Mini project on making a simple scientific calculator
+- <a href="https://github.com/midhunshabu/scientific-calculator"> PROJECT LINK </a>
 
 
 ### 🔗 URL Threat Detection System (UTDS)
 - Detects malicious URLs and displays the safety score and threat analysing report about the link
+- <a href="https://github.com/midhunshabu/UTDS-url-threat-detection-system"> PROJECT LINK </a>
 
-
-### 🛡 WiFi Security Enhancer
-- Prototype to prevent unauthorized access <b>(work in progress)</b>
-
+### 🛡 Simple Keylogger System
+- simple Prototype to note the keyslogging list in a system
+- <a href="https://github.com/midhunshabu/simple-keylogger"> PROJECT LINK </a>
 ---
 
 ## 📊 GITHUB STATS
