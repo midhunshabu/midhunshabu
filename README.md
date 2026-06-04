@@ -14,7 +14,7 @@
 - I keep learning to make myself better
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/cyber-security.png" width="100"/>
+ 
 </p>
 
 ---
