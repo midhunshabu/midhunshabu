@@ -37,7 +37,6 @@
 - Mini project on making a simple scientific calculator
 - <a href="https://github.com/midhunshabu/scientific-calculator"> PROJECT LINK </a>
 
-
 ### 🔗 URL Threat Detection System (UTDS)
 - Detects malicious URLs and displays the safety score and threat analysing report about the link
 - <a href="https://github.com/midhunshabu/UTDS-url-threat-detection-system"> PROJECT LINK </a>
@@ -45,15 +44,23 @@
 ### 🛡 Simple Keylogger System
 - simple Prototype to note the keyslogging list in a system
 - <a href="https://github.com/midhunshabu/simple-keylogger"> PROJECT LINK </a>
+
+### 🔐Secure Evidence Storing System using Post Quantum cryptography
+- a quantum cryptographycal based evidence storing system
+- <a href="https://github.com/midhunshabu/secure-evidence-storing-system-using-post-quantum-cryptography.git">PROJECT LINK</a>
+
 ---
 
 ## 📊 GITHUB STATS
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=midhunshabu&show_icons=true&theme=radical" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunshabu&layout=compact&theme=radical" width="300"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=midhunshabu&show_icons=true&theme=radial&hide_border=true&v=1" alt="Midhun's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=midhunshabu&layout=compact&theme=radial&hide_border=true&v=1" alt="Midhun's Top Languages" width="48%" />
 </p>
 
----
+### ⚡ My GitHub Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=midhunshabu&theme=react-dark)
 
 ## 📫 CONNECT WITH ME
 
