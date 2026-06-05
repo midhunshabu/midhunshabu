@@ -16,8 +16,9 @@
 ---
 
 ### SAY HELLO TO OKSANA
+
 <p align="center">
-<img width="500" height="500" alt="octocat-1780572974395" src="https://github.com/user-attachments/assets/71acddd7-9d31-4c6e-99f8-e6da65f66162" /></p>
+<img width="300" height="300" alt="octocat-1780572974395" src="https://github.com/user-attachments/assets/71acddd7-9d31-4c6e-99f8-e6da65f66162" /></p>
 <p align="center">
 Hey, it's Oksana, welcome to my human's GitHub. Pleasure to meet you.<br>
 While you're here, don't forget to drop a star ⭐.<br>
@@ -78,35 +79,46 @@ I've been promised treats for every star this profile gets, and at this point, I
 ## 📫 CONNECT WITH ME
 
 <p align="center">
-  <a href="https://www.instagram.com/its_midhunshabu?igsh=MXJyMnZvaGc2d3dycg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/share/16MsKu8Cf6/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.threads.net/@its_midhunshabu" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/midhun_shabu" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://t.me/midhun_shabu" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://www.snapchat.com/add/midhun_shabu?share_id=Ac3hKyvulwE&locale=en-US" target="_blank">
-    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
-  </a>
-  <a href="https://www.linkedin.com/in/midhun-shabu-puthanveetil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:midhunshabu18102004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/midhunshabu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://www.instagram.com/its_midhunshabu">
+  <img src="https://skillicons.dev/icons?i=instagram" height="60" style="margin:10px;"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/midhunshabu">
+  <img src="https://github.com/user-attachments/assets/2f967055-db77-4590-87f7-21822aac104e" height="49" style="margin:10px;"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.threads.net/@its_midhunshabu">
+  <img src="https://cdn.simpleicons.org/threads/white" height="45" style="margin:10px;"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/midhun_shabu">
+  <img src="https://cdn.simpleicons.org/x/white" height="45" style="margin:10px;"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/midhun_shabu">
+  <img src="https://github.com/user-attachments/assets/ec177bbc-ed39-448d-9cd8-dad7ee97f58d" height="45" style="margin:10px;"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.snapchat.com/add/midhun_shabu">
+  <img src="https://github.com/user-attachments/assets/babd617b-886a-4e48-a3c4-92a6badd41a5" height="47" style="margin:10px;"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/midhunshabu">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin:10px;"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:midhunshabu18102004@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" style="margin:10px;"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/midhunshabu">
+  <img src="https://skillicons.dev/icons?i=github" height="60" style="margin:10px;"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 </p>
 
+  
 ---
 ## BADGES GAINED
 <p align="center">
