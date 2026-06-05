@@ -59,6 +59,14 @@ I've been promised treats for every star this profile gets, and at this point, I
 ## 📊 GITHUB STATS
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=midhunshabu&theme=radical" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=midhunshabu&theme=radical&hide_border=true" width="70%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=midhunshabu&show_icons=true&theme=radical&hide_border=true&v=1" alt="Midhun's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=midhunshabu&layout=compact&theme=radical&hide_border=true&v=1" alt="Midhun's Top Languages" width="48%" />
 </p>
