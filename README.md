@@ -54,8 +54,8 @@
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=midhunshabu&show_icons=true&theme=radial&hide_border=true&v=1" alt="Midhun's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=midhunshabu&layout=compact&theme=radial&hide_border=true&v=1" alt="Midhun's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=midhunshabu&show_icons=true&theme=radical&hide_border=true&v=1" alt="Midhun's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=midhunshabu&layout=compact&theme=radical&hide_border=true&v=1" alt="Midhun's Top Languages" width="48%" />
 </p>
 
 ### ⚡ My GitHub Activity Graph
