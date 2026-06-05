@@ -13,10 +13,6 @@
 - Working to make digital spaces safer  
 - I keep learning to make myself better
 
-<p align="center">
- 
-</p>
-
 ---
 
 ### SAY HELLO TO OKSANA
@@ -31,13 +27,11 @@ I've been promised treats for every star this profile gets, and at this point, I
 ---
 
 ## 💻 SKILLS AND TOOLS
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img 
+    src="https://skillicons.dev/icons?i=python,cpp,linux,github,mysql,kali&theme=dark&perline=6" 
+  />
 </p>
 
 ---
