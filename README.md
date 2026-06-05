@@ -131,3 +131,6 @@ I've been promised treats for every star this profile gets, and at this point, I
 <img width="200" height="200" src="https://assets.holopin.io/hf2025levels/lvl4-human.webp"/>
 <img width="200" height="200" src="https://assets.holopin.io/hf2025levels/lvl5-human.webp"/>
 </p>
+
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100%&section=footer"/> </p>
