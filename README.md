@@ -108,7 +108,7 @@ I've been promised treats for every star this profile gets, and at this point, I
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin:10px;"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:midhunshabu18102004@gmail.com">
+<a href="mailto:iam.midhunshabu@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" style="margin:10px;"/>
 </a>
 &nbsp;&nbsp;&nbsp;
