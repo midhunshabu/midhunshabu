@@ -15,18 +15,6 @@
 
 ---
 
-### SAY HELLO TO OKSANA
-
-<p align="center">
-<img width="300" height="300" alt="octocat-1780572974395" src="https://github.com/user-attachments/assets/71acddd7-9d31-4c6e-99f8-e6da65f66162" /></p>
-<p align="center">
-Hey, it's Oksana, welcome to my human's GitHub. Pleasure to meet you.<br>
-While you're here, don't forget to drop a star ⭐.<br>
-I've been promised treats for every star this profile gets, and at this point, I'm starting to suspect I've been scammed.
-</p>
-
----
-
 ## 💻 SKILLS AND TOOLS
 
 <p align="center">
