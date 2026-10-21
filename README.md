@@ -62,7 +62,7 @@
 
 ### ⚡ My GitHub Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=midhunshabu&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=midhunshabu&theme=radical)
 
 ## 📫 CONNECT WITH ME
 
